@@ -1,0 +1,7 @@
+---
+layout:default
+title:Hello qq4xx
+---
+<h2>{{page.title}}</h2>
+<p>Hello qq4xx</p>
+<p>{{page.date|date_to_string}}</p>
